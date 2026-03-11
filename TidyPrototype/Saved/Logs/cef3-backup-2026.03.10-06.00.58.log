@@ -1,0 +1,20 @@
+[7308:11416:0310/100830.034:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[7308:11416:0310/100830.231:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[7308:2188:0310/100830.423:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[7308:11416:0310/100830.538:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[7308:17452:0310/100840.238:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\s232739\Documents\GitHub\Tidy\TidyPrototype\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\s232739\Documents\GitHub\Tidy\TidyPrototype\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[7308:17452:0310/100840.286:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\s232739\Documents\GitHub\Tidy\TidyPrototype\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\s232739\Documents\GitHub\Tidy\TidyPrototype\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[7308:17452:0310/100840.293:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\s232739\Documents\GitHub\Tidy\TidyPrototype\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\s232739\Documents\GitHub\Tidy\TidyPrototype\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[7308:17452:0310/100840.320:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\s232739\Documents\GitHub\Tidy\TidyPrototype\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\s232739\Documents\GitHub\Tidy\TidyPrototype\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[7308:11416:0310/100840.699:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[7308:2188:0310/100841.608:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[17000:12504:0310/100841.647:ERROR:backend_impl.cc(989)] Critical error found -8
+[17000:12504:0310/100841.657:WARNING:storage_block-inl.h(138)] Failed data load.
+[17000:12504:0310/100841.657:ERROR:entry_impl.cc(1029)] No file for b2020000
+[17000:12504:0310/100841.661:WARNING:storage_block-inl.h(138)] Failed data load.
+[7308:2188:0310/100841.708:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[7308:11912:0310/100918.089:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\s232739\Documents\GitHub\Tidy\TidyPrototype\Saved\webcache_6613\Default\GCM Store\Encryption: IO error: C:\Users\s232739\Documents\GitHub\Tidy\TidyPrototype\Saved\webcache_6613\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[17000:8596:0310/115141.178:ERROR:dns_config_service.cc(273)] DNS config watch failed.
+[7308:17452:0310/115141.184:ERROR:dns_config_service.cc(273)] DNS config watch failed.
+[7308:11416:0310/122331.543:ERROR:device_event_log_impl.cc(196)] [12:23:31.300] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[7308:11416:0310/170058.386:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

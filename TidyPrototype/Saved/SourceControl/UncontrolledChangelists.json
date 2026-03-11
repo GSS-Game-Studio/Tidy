@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/s232739/Documents/GitHub/Tidy/TidyPrototype/Content/Blueprints/BP_Bin.uasset",
+				"C:/Users/s232739/Documents/GitHub/Tidy/TidyPrototype/Content/Blueprints/BP_Rubbish.uasset",
+				"C:/Users/s232739/Documents/GitHub/Tidy/TidyPrototype/Content/Blueprints/BP_GameMode_Bin.uasset",
+				"C:/Users/s232739/Documents/GitHub/Tidy/TidyPrototype/Content/Levels/L_House1.umap"
+			]
+		}
+	]
+}
