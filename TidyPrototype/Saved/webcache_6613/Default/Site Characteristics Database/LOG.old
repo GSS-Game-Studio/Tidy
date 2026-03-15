@@ -1,0 +1,5 @@
+2026/03/15-23:36:52.339 46f8 Log #3: 2 ops saved to Table #4 OK
+2026/03/15-23:36:52.341 46f8 Archiving C:\Users\Marcus\Documents\GitHub\Tidy\TidyPrototype\Saved\webcache_6613\Default\Site Characteristics Database/000003.log: OK
+2026/03/15-23:36:52.342 46f8 Table #4: 2 entries OK
+2026/03/15-23:36:52.344 46f8 Archiving C:\Users\Marcus\Documents\GitHub\Tidy\TidyPrototype\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
+2026/03/15-23:36:52.352 46f8 **** Repaired leveldb C:\Users\Marcus\Documents\GitHub\Tidy\TidyPrototype\Saved\webcache_6613\Default\Site Characteristics Database; recovered 1 files; 179 bytes. Some data may have been lost. ****
