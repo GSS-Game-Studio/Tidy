@@ -6,11 +6,14 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 				"C:/Users/s232739/Documents/GitHub/Tidy/TidyPrototype/Content/Blueprints/BP_Bin.uasset",
 				"C:/Users/s232739/Documents/GitHub/Tidy/TidyPrototype/Content/Blueprints/BP_Rubbish.uasset",
 				"C:/Users/s232739/Documents/GitHub/Tidy/TidyPrototype/Content/Blueprints/BP_GameMode_Bin.uasset",
 				"C:/Users/s232739/Documents/GitHub/Tidy/TidyPrototype/Content/Levels/L_House1.umap"
 =======
+=======
+>>>>>>> Stashed changes
 				"C:/Program Files/Epic Games/UE_5.7/Engine/Plugins/Animation/ACLPlugin/Content/ACLAnimBoneCompressionSettings.uasset",
 				"C:/Program Files/Epic Games/UE_5.7/Engine/Plugins/2D/Paper2D/Content/DefaultLitSpriteMaterial.uasset",
 				"C:/Program Files/Epic Games/UE_5.7/Engine/Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset",
@@ -7419,6 +7422,9 @@
 				"C:/Program Files/Epic Games/UE_5.7/Engine/Plugins/2D/Paper2D/Content/Tutorial/Paper2D/TutorialAssets/TutorialSprite.uasset",
 				"C:/Program Files/Epic Games/UE_5.7/Engine/Plugins/2D/Paper2D/Content/Tutorial/Paper2D/TutorialAssets/TutorialFlipBook.uasset",
 				"C:/Users/s231510/Desktop/TidyProject/Tidy/TidyPrototype/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset"
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 			]
 		}
