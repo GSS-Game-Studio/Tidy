@@ -1,51 +1,68 @@
-# Ignore all files by default, but scan all directories.
-*
-!*/
+# Unreal Engine auto-generated folders
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+FeaturePacks/
 
-# Do not ignore git files in the root of the repo.
-!/.git*
+# Local project user settings
+Saved/Config/WindowsEditor/GameUserSettings.ini
 
-# Do not ignore current project's `.uproject`.
-!/*.uproject
+# Visual Studio files
+*.sln
+*.suo
+*.user
+*.userosscache
+*.sdf
+*.opensdf
+*.VC.db
+*.csproj
+.vcxproj
+*.ncb
+*.dbmdl
+*.dbproj
 
-# Do not ignore source, config and plugins dirs.
-!/Source/**
-!/Config/**
-!/Plugins/**
+# IDE/editor settings
+.vscode/
+.idea/
 
-# Only allow .uasset and .umap files from /Content dir.
-# They're tracked by git-lfs, don't forget to track other
-# files if adding them here.
-!/Content/**/*.uasset
-!/Content/**/*.umap
+# Compiled files
+*.exe
+*.dll
+*.lib
+*.app
+*.dylib
+*.pdb
+*.obj
+*.o
+*.so
+*.apk
 
-# Allow any files from /RawContent dir.
-# Any file in /RawContent dir will be managed by git lfs.
-!/RawContent/**/*
+# Logs and dumps
+*.log
+*.dmp
 
-# OS/platform generated files.
+# Backup and temp
+*.tmp
+*.bak
+*.old
+*.autosave
+*.backup
 
-# Windows
-ehthumbs.db
+# Plugin build artifacts
+Plugins/*/Binaries/
+Plugins/*/Intermediate/
+Plugins/*/Saved/
+
+# Git metadata
+*.orig
+*.swp
+*.swo
+*.swn
+
+# OS metadata
 Thumbs.db
-
-# Mac OS X
+ehthumbs.db
+desktop.ini
 .DS_Store
-.DS_Store?
-.AppleDouble
-.LSOverride
-._*
-
-# Linux
-*~
-.directory
-
-# vim
-[._]*.s[a-w][a-z]
-[._]s[a-w][a-z]
-*.un~
-Session.vim
-.netrwhist
-
-# Visual Studio
-.vs
