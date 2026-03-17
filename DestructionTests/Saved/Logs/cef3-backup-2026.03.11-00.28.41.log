@@ -1,0 +1,15 @@
+[1808:9908:0311/104837.606:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[1808:10496:0311/104837.694:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[1808:9908:0311/104837.731:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[1808:9908:0311/104842.415:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[13632:12600:0311/104844.054:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-97B7B04CF164339FEC229DF3A04895AB will be ignored
+[1808:9908:0311/112344.376:ERROR:device_event_log_impl.cc(196)] [11:23:44.274] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+[1808:9908:0311/112344.709:ERROR:device_event_log_impl.cc(196)] [11:23:44.397] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[1808:9908:0311/112344.709:ERROR:device_event_log_impl.cc(196)] [11:23:44.409] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+[1808:9908:0311/112517.881:ERROR:device_event_log_impl.cc(196)] [11:25:17.583] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[1808:9908:0311/112517.881:ERROR:device_event_log_impl.cc(196)] [11:25:17.595] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+[1808:9908:0311/112520.880:ERROR:device_event_log_impl.cc(196)] [11:25:20.694] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[1808:9908:0311/112840.119:ERROR:device_event_log_impl.cc(196)] [11:28:40.093] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[1808:9908:0311/112840.119:ERROR:device_event_log_impl.cc(196)] [11:28:40.116] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+[1808:9908:0311/112841.449:ERROR:device_event_log_impl.cc(196)] [11:28:41.289] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[1808:9908:0311/112841.449:ERROR:device_event_log_impl.cc(196)] [11:28:41.301] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
