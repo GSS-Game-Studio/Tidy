@@ -1,10 +1,10 @@
 # Unreal Engine auto-generated folders
-Binaries/
-Build/
-DerivedDataCache/
-Intermediate/
-Saved/
-FeaturePacks/
+TidyPrototype/Binaries/
+TidyPrototype/Build/
+TidyPrototype/DerivedDataCache/
+TidyPrototype/Intermediate/
+TidyPrototype/Saved/
+TidyPrototype/FeaturePacks/
 
 # Local project user settings
 Saved/Config/WindowsEditor/GameUserSettings.ini
