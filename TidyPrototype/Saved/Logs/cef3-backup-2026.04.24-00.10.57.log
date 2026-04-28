@@ -1,8 +1,0 @@
-[3812:20704:0424/100220.434:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[3812:20704:0424/100220.532:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[20860:8104:0424/100224.560:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-6270B9E89F6FE50B1707F878DDDD4112 will be ignored
-[3812:20704:0424/100229.225:ERROR:device_event_log_impl.cc(196)] [10:02:28.896] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
-[18764:5412:0424/101051.698:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[18764:5412:0424/101051.759:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[17436:15812:0424/101055.068:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-328F4A5D9913ADD577781A76FAF459C0 will be ignored
-[18764:5412:0424/101057.852:ERROR:device_event_log_impl.cc(196)] [10:10:57.848] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
