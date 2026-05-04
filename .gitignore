@@ -71,10 +71,10 @@ DerivedDataCache/*
 #################################
 TidyPrototype/[Bb]uild
 TidyPrototype/[Bb]uilds
-TidyPrototype/Binaries
-TidyPrototype/DerivedDataCache
-TidyPrototype/Intermediate
-TidyPrototype/Saved
+/TidyPrototype/Binaries
+/TidyPrototype/DerivedDataCache
+/TidyPrototype/Intermediate
+/TidyPrototype/Saved
 
 #################################
 # Visual Studio Generated Files #
