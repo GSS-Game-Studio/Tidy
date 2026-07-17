@@ -66,6 +66,8 @@ Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
+*_BuiltData.uasset
+
 #################################
 # Unreal Engine Generated Files #
 #################################
